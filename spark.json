@@ -2,6 +2,6 @@
   "name": "DHT11-sensor-library",
   "author": "adafruit",
   "license": "MIT",
-  "version": "",
+  "version": "0.0.1",
   "description": "a simple library for dht11 temperature and humidity sensor"
 }
